@@ -1,12 +1,12 @@
-<!-- Profile README for github.com/Jishwuh -->
+<!-- Profile README for github.com/joshniya -->
 
-<h1 align="center">👋 Hey there, I'm Josh (aka Jishwuh)</h1>
+<h1 align="center">👋 Hey there, I'm Josh!</h1>
 
 <p align="center">
   <b>📜 Bachelor of Science in Computer Science | 🧠 Creator of LinkHub</b><br>
-  <a href="https://jishwuh.com">🌐 jishwuh.com</a> • 
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">🌐 TBD!</a> • 
   <a href="https://www.linkedin.com/in/joshua-niyazov/">💼 LinkedIn</a> • 
-  <a href="https://github.com/Jishwuh?tab=repositories">📁 Projects</a>
+  <a href="https://github.com/joshniya?tab=repositories">📁 Projects</a>
 </p>
 
 ---
@@ -29,22 +29,22 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jishwuh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joshniya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jishwuh&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=joshniya&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishwuh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshniya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🧩 Featured Projects
 
-- 🔗 **[LinkHub](https://github.com/Jishwuh/LinkHub)** – Self-hostable “link-in-bio” with dynamic embeds and admin controls  
+- 🔗 **[LinkHub](https://github.com/joshniya/LinkHub)** – Self-hostable “link-in-bio” with dynamic embeds and admin controls  
 - 🤖 **Discord Automation Tools** – Utility cogs, database integration, and event listeners  
 - 🧠 **AI & Data Projects** – MongoDB dashboards, Python AI models, and SQL filters  
 
@@ -65,7 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jishwuh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=joshniya&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
@@ -77,5 +77,5 @@
 <h3 align="center">⚡ Let's Connect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-n-85a043260/"><img src="https://img.shields.io/badge/LinkedIn-Joshua%20Niyazov-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://jishwuh.com"><img src="https://img.shields.io/badge/Website-jishwuh.com-8A2BE2?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://joshniya.com"><img src="https://img.shields.io/badge/Website-joshniya.com-8A2BE2?style=for-the-badge&logo=google-chrome" /></a>
 </p>
