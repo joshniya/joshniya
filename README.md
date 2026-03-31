@@ -52,7 +52,7 @@
 
 ### 🌱 Currently Working On
 
-- 🕸️ React and Next.js
+- 📃 <a href="https://portalpage.app">PortalPage</a>
 
 ---
 
@@ -76,6 +76,6 @@
 
 <h3 align="center">⚡ Let's Connect</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshua-n-85a043260/"><img src="https://img.shields.io/badge/LinkedIn-Joshua%20Niyazov-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/joshua-niyazov/"><img src="https://img.shields.io/badge/LinkedIn-Joshua%20Niyazov-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://joshniya.com"><img src="https://img.shields.io/badge/Website-joshniya.com-8A2BE2?style=for-the-badge&logo=google-chrome" /></a>
 </p>
